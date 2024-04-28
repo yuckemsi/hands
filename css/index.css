@@ -1,0 +1,158 @@
+.block1 h1 {
+    font-size: 70px;
+    text-align: center;
+}
+.block1 p {
+    text-align: center;
+}
+.block1 {
+    padding: 20px 0;
+}
+.block1 figure {
+    width: 100%;
+    padding: 50px 20%;
+}
+.card {
+    /* overflow: hidden; */
+    width: 230px;
+}
+.desc h1 {
+    font-weight: bold;
+}
+.desc p {
+    font-size: 16px;
+    font-weight: bold;
+}
+.temp span {
+    display: block;
+    position: relative;
+    bottom: 0;
+    left: 0;
+    background: #FFF2AE;
+    margin-top: 80px;
+    height: 200px;
+    width: 100%;
+    border-radius: 30px;
+    overflow: hidden;
+}
+.temp figure {
+    position: relative;
+}
+.temp img {
+    z-index: 2;
+    border-radius: 30px;
+    overflow: hidden;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+.cards {
+    padding-top: 20px;
+    display: flex;
+    justify-content: space-around;
+    margin: 0 10%;
+}
+.desc {
+    padding: 10px;
+}
+.titl h1 {
+    font-size: 60px;
+}
+.titl {
+    padding-left: 12%;
+}
+.button {
+    background: #FFF2AE;
+    font-weight: bold;
+    padding: 22px 28px;
+    border-radius: 30px;
+    box-shadow: 1px 5px 10px rgba(128, 128, 128, 0.336);
+}
+.button:hover {
+    background: #FFAE6D;
+    color: #fff;
+    text-decoration: none;
+}
+.l {
+    width: 100%;
+    margin: 50px 0;
+    text-align: center;
+}
+.block3 h1{
+    font-size: 70px;
+    text-align: center;
+}
+.cardsInfo h1 {
+    text-align: left;
+    font-size: 24px;
+    font-weight: bold;
+}
+.cardsInfo {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    max-width: 100%;
+    margin: 50px 30px;
+    padding: 37px 70px;
+}
+.cardInfo {
+    box-shadow: 0px 0px 200px #FFEA7F;
+    width: 300px;
+    background: #fff;
+    /* border: 1px solid gray; */
+    padding: 25px;
+    border-radius: 30px;
+}
+.block3 {
+    margin-top: 100px;
+}
+.block4 figure {
+    position: relative;
+    top: 80px;
+    left: 0;
+    width: 65%;
+    margin: 0 auto;
+    z-index: -1;
+}
+.group {
+    margin-top: -200px;
+    padding: 20px 20%;
+}
+.text {
+    box-shadow: 0px 0px 100px #FFEA7F;
+    padding: 50px 50px 10px 50px;
+    border-radius: 30px;
+    /* border: 1px solid black; */
+    background: white;
+}
+.text p {
+    text-align: center;
+}
+.text h1 {
+    font-size: 30px;
+    text-align: center;
+    font-family: 'RAYDIS', sans-serif;
+}
+.text a {
+    margin: 20px auto;
+    font-family: 'RAYDIS', sans-serif;
+}
+.kek img {
+    width: 500px;
+    height: 500px;
+    z-index: -4;
+    position: absolute;
+}
+.block5 {
+    display: flex;
+    /* margin: 300px auto; */
+    width: 100%;
+    /* flex-wrap: wrap; */
+    margin-top: 194px;
+}
+.groupp figure {
+    margin: 5px;
+    border-radius: 30px;
+    overflow: hidden;   
+    width: 300px;
+}
